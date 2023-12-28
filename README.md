@@ -1,2 +1,2 @@
 # Bachelor_thesis_NLP
-This repository contains the code and documentation for my bachelor thesis in Natural Language Processing (NLP).
+This repository houses the code and documentation for my bachelor thesis in Natural Language Processing (NLP), focusing on Twitter content classification into fake and real categories. Leveraging various machine learning models, the project employs state-of-the-art NLP techniques, including text normalization and cleaning packages, to enhance the accuracy of the classification process.
